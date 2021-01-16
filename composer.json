@@ -1,0 +1,36 @@
+{
+  "name": "gngstyle/yii2-finalproject",
+  "description": "Yii2 Finalproject Module",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "gngstyle",
+      "email": "180202099@kocaeli.edu.tr",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "yiisoft/yii2": "~2.0.13"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "8.*.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "gngstyle\\finalproject\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "gngstyle\\finalproject\\tests\\": "tests"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
