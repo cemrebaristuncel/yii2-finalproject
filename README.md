@@ -1,5 +1,5 @@
 # yii2-finalproject
-Avrupa Birliği'ne üye olan ülkelerin envanterindeki uçakları görüntelemenizi sağlayan bir modül.
+Avrupa Birliği'ne üye olan ülkelerin envanterindeki uçakları görüntülemenizi sağlayan bir modül.
 # Kurulum
 Modülü başarılı bir şekilde entegre edebilmeniz için öncesinde yii2-advanced template'i kurulu olmalıdır.
 Modülün kurulması için doğru dizinde olmanız gerekmektedir (/var/www/advanced). 
