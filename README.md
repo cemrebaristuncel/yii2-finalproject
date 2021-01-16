@@ -25,7 +25,9 @@ Modülde 2 adet tablo bulunmaktadır ve bu 2 tablo birbiriyle ilişkilidir.
 Tablolardan biri ülkeler, diğeri ise uçaklar (envanter) tablosudur. Tablolarla ilgili veritabanından
 alınan ekran görüntüleri aşağıda mevcuttur.
 
+<img src="https://github.com/gngstyle/yii2-finalproject/blob/main/screenshots/planes.jpg?raw=true" />
 
+<img src="https://github.com/gngstyle/yii2-finalproject/blob/main/screenshots/countries.jpg?raw=true" />
 
 Basit html komutlarıyla oluşturduğum /default/index sayfası da aşağıdadır.
 
