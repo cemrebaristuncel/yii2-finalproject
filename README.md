@@ -32,3 +32,9 @@ alınan ekran görüntüleri aşağıda mevcuttur.
 Basit html komutlarıyla oluşturduğum /default/index sayfası da aşağıdadır.
 
 <img src="https://github.com/gngstyle/yii2-finalproject/blob/main/screenshots/defaultindex.jpg?raw=true" />
+
+Ülkeler ana sayfası ve Uçaklar (envanter) anasayfasının görünümü ise aşağıda verilmiştir.
+
+<img src="https://github.com/gngstyle/yii2-finalproject/blob/main/screenshots/countriesindex.jpg?raw=true" />
+
+<img src="https://github.com/gngstyle/yii2-finalproject/blob/main/screenshots/planesindex.jpg?raw=true" />
