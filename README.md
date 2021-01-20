@@ -5,7 +5,7 @@ Modülü başarılı bir şekilde entegre edebilmeniz için öncesinde yii2-adva
 Modülün kurulması için doğru dizinde olmanız gerekmektedir (/var/www/advanced). 
 Doğru dizinde olduğunuzdan emin olunduktan sonra aşağıdaki komut girilerek modül yüklenmelidir.
 
-```composer require gngstyle/yii2-finalproject```
+```composer require gngstyle/yii2-finalproject "dev-main"```
 
 Modül kurulduktan sonra backend\config\main.php dizinine girilmesi gerekmektedir. Ardından 'modules' kısmına
 `'finalproject' => [
